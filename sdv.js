@@ -1,4 +1,4 @@
 //git changes
-luke Skywalker = "loser"
-Ren = "annoying"
-droids = "help"
+luke Skywalker = "loser";
+Ren = "annoying";
+droids = "help";
